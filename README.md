@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarsh10092&label=Profile%20views&color=0e75b6&style=flat" alt="akarsh10092" /> </p>
 
-- 🔭 I’m currently working on **Goal Setter App**
+- 🔭 I’m currently working on **Btech Burger Wala App**
 
 - 🌱 I’m currently learning **ReactJS and MongoDB**
 
